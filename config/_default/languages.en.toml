@@ -1,0 +1,14 @@
+title = "Clutch's Den"
+
+[params.author]
+name = "Clutch"
+image = "img/pfp.png"
+headline = "Going Crazy Everyday"
+bio = "Going Crazy Everyday"
+links = [
+  { email = "mailto:clutch1356@proton.me" },
+  { github = "https://github.com/Clutchnp" },
+]
+
+[params.share-links-active]
+  email = true
