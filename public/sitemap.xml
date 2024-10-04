@@ -4,28 +4,28 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/</loc>
+            <loc>http://localhost:1313/blog/posts/</loc>
             <lastmod>2024-10-04T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>http://localhost:1313/blog/</loc>
             <lastmod>2024-10-04T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/posts/my-first-post/</loc>
+            <loc>http://localhost:1313/blog/posts/my-first-post/</loc>
             <lastmod>2024-10-04T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>http://localhost:1313/blog/about/</loc>
           </url>
     
   
