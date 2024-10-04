@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 description: "A collection of my blog posts"
-draft: true
+draft: false
 showDate: false
 ---
 
