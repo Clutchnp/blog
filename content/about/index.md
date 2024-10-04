@@ -17,5 +17,5 @@ I am anything tech enthusiast that gets excited over everything tech, espicially
 
 ## Contact 
 
-You can contact me via [email](https://clutch1356@proton.me) to inform me about anything nice or just to have a nice chat :smile: 
+You can contact me via [email](mailto:https://clutch1356@proton.me) to inform me about anything nice or just to have a nice chat :smile: 
 
